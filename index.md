@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Introduction
+bgimage: bucket-building-cleaning-756883.jpg
 ---
+
 ### Introduction
 Amber Green Safety is a Sussex-based consultancy providing health and safety advice, guidance and training. We aim to take the mystery out of health and safety and ‘Free the Myth’ that it builds barriers to running your business effectively. Health and safety looks after the well-being of people and allows organisations to operate confidently, more efficiently and without delays on projects. Its procedures are based on simple common sense and respect for the working individual, not making life harder for everyone.
 
