@@ -9,19 +9,18 @@ Whatever type of business you run there will be a level of compliance that you m
 
 Amber Green Safety is able to get you fully compliant and can supply a Competent Person Service, removing the need for you to employ and train a dedicated member of staff. We’re never more than a phone call away, including emergencies, and we’re fully qualified to represent you.
 
-### Level 1 - £25 per month for companies with up to 100 employees
+### Level 1 - £30 per month for companies with up to 100 employees
 
 * Documented membership confirmation
 * Unlimited health and safety advice and guidance by telephone and email
 
-### Level 2 - £50 per month for companies with up to 100 employees
+### Level 2 - £60 per month for companies with up to 100 employees
 
 * Documented membership confirmation
 * Unlimited health and safety advice and guidance by telephone and email
 * Annual health and safety policy review
-* Annual status report for all of your activities
 
-### Level 3 - £100 per month for companies with up to 100 employees
+### Level 3 - £120 per month for companies with up to 100 employees
 
 * Documented membership confirmation
 * Unlimited health and safety advice and guidance by telephone and email
