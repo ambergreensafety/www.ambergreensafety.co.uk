@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Introduction
-bgimage: bucket-building-cleaning-756883.jpg
 ---
 
 ### Introduction

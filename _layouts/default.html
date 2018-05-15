@@ -8,6 +8,11 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <!-- Bootstrap CSS -->
     <link href="/css/main.css" rel="stylesheet">
+    <style>
+      body {
+        background: {% if page.bgimage %}{{ page.bgimage }}{% else %}{{ site.bgimage }}{% endif %};
+      }
+    </style>
     <title>{{ page.title }}</title>
   </head>
   <body>
@@ -21,28 +26,28 @@
 
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
+          <li class="nav-item {% if page.url == '/' %}active{% endif %}">
             <a class="nav-link" href="/">Introduction <span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/services.html' %}active{% endif %}">
             <a class="nav-link" href="/services">Services</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/myths.html' %}active{% endif %}">
             <a class="nav-link" href="/myths">Myths</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/compliance-and-competent-persons.html' %}active{% endif %}">
             <a class="nav-link" href="/compliance-and-competent-persons">Compliance</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/offers.html' %}active{% endif %}">
             <a class="nav-link" href="/offers">Offers</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/training.html' %}active{% endif %}">
             <a class="nav-link" href="/training">Training</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/references.html' %}active{% endif %}">
             <a class="nav-link" href="/references">References</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item {% if page.url == '/contact-us.html' %}active{% endif %}">
             <a class="nav-link" href="/contact-us">Contact Us</a>
           </li>
         </ul>

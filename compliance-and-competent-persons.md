@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Compliance and Competent Persons
+bgimage: url('../images/pexels-photo-266583.jpeg') no-repeat center center
 ---
 
 ## Meeting Compliance. Providing Competence.

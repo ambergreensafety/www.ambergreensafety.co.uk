@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Services
+bgimage: url('../images/carabiner-challenge-cleaners-36439.jpg') no-repeat center center
 ---
 ## Services
 

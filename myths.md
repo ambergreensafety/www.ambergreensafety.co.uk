@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dispelling The Myths
+bgimage: url('../images/pexels-photo-583390.jpeg') no-repeat center right
 ---
 
 ## Dispelling The Myths

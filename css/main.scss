@@ -7,11 +7,10 @@
 body {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background: url(../images/{% if page.bgimage %}{{ page.bgimage }}{% else %}{{ site.bgimage }}{% endif %}) no-repeat top center;
 }
 .starter-template {
   padding: 1.5rem;
-  background: #ffffffd4;
+  background: #ffffffe4;
 }
 
 .navbar.bottom h3 { color: white; }
