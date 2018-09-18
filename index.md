@@ -11,4 +11,3 @@ We provide uncomplicated, cost-effective advice and guidance, offering simple so
 
 You can’t put a price on a happy, healthy and safe working environment: the value speaks for itself. However, in these demanding times, we are confident that our charges among the lowest you will find, and we will match or even better any comparable quotation.
 
-Hello Tim. Testing this.
