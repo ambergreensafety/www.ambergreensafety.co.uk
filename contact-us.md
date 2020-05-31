@@ -13,4 +13,4 @@ United Kingdom
 
 Mobile: 07791 807 088
 
-Telephone: 01903 234 158
+Email: <info@ambergreensafety.co.uk>
